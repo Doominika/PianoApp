@@ -50,7 +50,7 @@
 }
 
 .white.pressed {
-    background-color: #DDB892;
+    background-color: #eeeeee;
 }
 
 .white.pressed .text_key {
@@ -58,7 +58,7 @@
 }
 
 .black.pressed {
-    background-color: #7F5539;
+    background-color: #021902; 
 }
 
 .black.pressed .text_key {
