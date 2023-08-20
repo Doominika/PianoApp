@@ -1,7 +1,7 @@
 Piano App
 
 Warto wiedzieć zamin zaczniesz grać:
-wersja 1 - nazwy dźwięków na pianinie (wersja 1)
+wersja 1 - nazwy dźwięków na pianinie (wersja 1)\n
 wersja 2 - nazwy dźwięków na pianinie (wersja 2)
 wersja 3 - klawisze klawiatury komputera odpowiadające dźwiękom
 
