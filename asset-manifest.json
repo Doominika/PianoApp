@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PianoApp/static/css/main.70f144e2.css",
+    "main.css": "/PianoApp/static/css/main.b05209fa.css",
     "main.js": "/PianoApp/static/js/main.86038746.js",
     "static/js/787.0d40c3c2.chunk.js": "/PianoApp/static/js/787.0d40c3c2.chunk.js",
     "static/media/bf.mp3": "/PianoApp/static/media/bf.ceddf60f1a51ebd5dad6.mp3",
@@ -21,12 +21,12 @@
     "static/media/df.mp3": "/PianoApp/static/media/df.54a92f09b2151941eba7.mp3",
     "static/media/af.mp3": "/PianoApp/static/media/af.2c9a27fc3ff723d30c52.mp3",
     "index.html": "/PianoApp/index.html",
-    "main.70f144e2.css.map": "/PianoApp/static/css/main.70f144e2.css.map",
+    "main.b05209fa.css.map": "/PianoApp/static/css/main.b05209fa.css.map",
     "main.86038746.js.map": "/PianoApp/static/js/main.86038746.js.map",
     "787.0d40c3c2.chunk.js.map": "/PianoApp/static/js/787.0d40c3c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70f144e2.css",
+    "static/css/main.b05209fa.css",
     "static/js/main.86038746.js"
   ]
 }
