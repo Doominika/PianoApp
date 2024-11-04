@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/PianoApp/static/css/main.70f144e2.css",
+    "main.js": "/PianoApp/static/js/main.de54582e.js",
+    "static/js/787.0d40c3c2.chunk.js": "/PianoApp/static/js/787.0d40c3c2.chunk.js",
+    "static/media/bf.mp3": "/PianoApp/static/media/bf.ceddf60f1a51ebd5dad6.mp3",
+    "static/media/df2.mp3": "/PianoApp/static/media/df2.f601752930a73b30df29.mp3",
+    "static/media/e2.mp3": "/PianoApp/static/media/e2.9e5928928e690d5b748a.mp3",
+    "static/media/b.mp3": "/PianoApp/static/media/b.4288396617e35c5354a1.mp3",
+    "static/media/d2.mp3": "/PianoApp/static/media/d2.bf82ddba4d2bd9f2b34f.mp3",
+    "static/media/a.mp3": "/PianoApp/static/media/a.5351f634828c8b69f8a3.mp3",
+    "static/media/ef2.mp3": "/PianoApp/static/media/ef2.4a71870cc79218671114.mp3",
+    "static/media/d.mp3": "/PianoApp/static/media/d.419c7811ba58a7baae48.mp3",
+    "static/media/g.mp3": "/PianoApp/static/media/g.e5e79dda1ac596d106e3.mp3",
+    "static/media/c2.mp3": "/PianoApp/static/media/c2.17abda5cb76819c47f6f.mp3",
+    "static/media/e.mp3": "/PianoApp/static/media/e.51e5702c85c61f1e42bf.mp3",
+    "static/media/f.mp3": "/PianoApp/static/media/f.fdf4ed24b314a7bd845d.mp3",
+    "static/media/c.mp3": "/PianoApp/static/media/c.a2508143c09c1239503d.mp3",
+    "static/media/ef.mp3": "/PianoApp/static/media/ef.eaff25c870f1c899ba85.mp3",
+    "static/media/gf.mp3": "/PianoApp/static/media/gf.962a3524bdf8e796c525.mp3",
+    "static/media/df.mp3": "/PianoApp/static/media/df.54a92f09b2151941eba7.mp3",
+    "static/media/af.mp3": "/PianoApp/static/media/af.2c9a27fc3ff723d30c52.mp3",
+    "index.html": "/PianoApp/index.html",
+    "main.70f144e2.css.map": "/PianoApp/static/css/main.70f144e2.css.map",
+    "main.de54582e.js.map": "/PianoApp/static/js/main.de54582e.js.map",
+    "787.0d40c3c2.chunk.js.map": "/PianoApp/static/js/787.0d40c3c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70f144e2.css",
+    "static/js/main.de54582e.js"
+  ]
+}
