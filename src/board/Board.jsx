@@ -23,8 +23,8 @@ function Board({ version }) {
   */
 
   useEffect(() => {
-    fetch("/chores.json")
-      .then((data) => data.json())
+    fetch("/PianoApp/chores.json")
+      .then((response) => response.json())
       .then((data) => {
         setData(data);
       })
