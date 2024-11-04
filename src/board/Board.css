@@ -1,0 +1,98 @@
+.board_background {
+    background-color: #a1b896;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    border-radius: 3vh;
+    border: 2px solid #4C6E3D;
+    width: 90%;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    width: 65%;
+    height: 35%;
+}
+
+.song_title {
+    font-size: 2.5vh;
+    padding: 1vw;
+    width: 90%;
+    text-align: center;
+    border-radius: 2vh;
+    background-color: #6e8f5f64;
+    color: rgba(255, 255, 255, 0.655)
+}
+
+#prev_button {
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 2.5vw;
+    color: #5D7F4E;
+}
+
+#prev_button:hover {
+    color: #6E8F5F;
+}
+
+#next_button {
+    text-align: center;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 2.5vw;
+    color: #5D7F4E;
+}
+
+#next_button:hover {
+    color: #6E8F5F;
+}
+
+.notes_background {
+    background-color: #a1b896;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 95%;
+    height: 85%;
+}
+
+.notes {
+    font-size: 16px;
+    font-weight: 700;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1%;
+    border-radius: 10px;
+}
+
+.n1 {
+    background-color: #2b9348;
+    width: 6vh;
+}
+
+.n2 {
+    background-color: #55a630;
+    width: 12vh;
+}
+
+.n3 {
+    background-color: #80b918;
+    width: 18vh;
+}
+
+.n4 {
+    background-color: #aacc00;
+    width: 23vh;
+}
